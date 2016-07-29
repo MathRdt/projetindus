@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MetaDatas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mandatory>
+    <MetaData>
+      <Nom>fiducial:domainContainerBranche</Nom>
+      <Valeur>Branche</Valeur>
+    </MetaData>
+    <MetaData>
+      <Nom>fiducial:domainContainerSociete</Nom>
+      <Valeur>Societe</Valeur>
+    </MetaData>
+    <MetaData>
+      <Nom>fiducial:domainContainerApplication</Nom>
+      <Valeur>Application</Valeur>
+    </MetaData>
+    <MetaData>
+      <Nom>fiducial:domainContainerFamille</Nom>
+      <Valeur>Famille2</Valeur>
+    </MetaData>
+    <MetaData>
+      <Nom>fiducial:domainContainerSousFamille</Nom>
+      <Valeur>SousFamille</Valeur>
+    </MetaData>
+  </Mandatory>
+  <Optional>
+    <MetaData>
+      <Nom>fiducial_recette:paie_ClientAdresseCP</Nom>
+      <Valeur>AdresseCP</Valeur>
+    </MetaData>
+    <MetaData>
+      <Nom>fiducial:bonus</Nom>
+      <Valeur>OK</Valeur>
+    </MetaData>
+  </Optional>
+</MetaDatas>
